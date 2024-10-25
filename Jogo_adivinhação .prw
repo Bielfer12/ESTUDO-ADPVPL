@@ -32,7 +32,7 @@ static function continuar()
 
 	esc_num := Val(cGet1) //ESC_NUM RECEBENDO cGet1, AONDE RECEBE AS INFORMAÇÕES DO INPUT. 
 	num := randomize(0,10) //RANDOMIZE, PARA TRAZER ALGUMA COISA ALEATORIA ENTRE OS NUMEROS SELECIONADOS.
-
+// so um ola
 		if num == esc_num //COMPARAÇÃO.
 			alert("Voce acertou o numero")
 		else
