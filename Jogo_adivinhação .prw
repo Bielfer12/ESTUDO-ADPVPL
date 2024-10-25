@@ -37,6 +37,7 @@ static function continuar()
 			alert("Voce acertou o numero")
 		else
 			alert("Escolha novamente o numero", cValToChar(num))
+			// alert("ola mundo")
 		endif
 		//OBS: FOI TIRADO O WHILE, POIS SE NAO ELE FAZIA UM LOOP INFINITO ATE SER .F. E ACHAR O NUMERO.
 
