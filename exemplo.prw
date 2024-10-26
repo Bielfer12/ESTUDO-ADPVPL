@@ -28,7 +28,7 @@ User function exemplo01()
 	ACTIVATE MSDIALOG oDlg CENTERED
 
 Return
-
+//estou aqui
 static function MAIS()
 	num1 := Val(FWInputBox("Digite o primeiro numero: "))
 	num2 := Val(FWInputBox("Digite o segundo numero: "))
