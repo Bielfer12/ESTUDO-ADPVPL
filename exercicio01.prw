@@ -35,6 +35,7 @@ user function mediaAluno()
     num1 := Val(FWInputBox("Digite sua nota: "))
     num2 := Val(FWInputBox("Digite sua nota: "))
     num3 := Val(FWInputBox("Digite sua nota: "))
+    // 
 
     //fiz a media
     media := (num1 + num2 + num3)/3
